@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #000;
+}
+.blog{
+    width: 700px;
+    height: 550px;
+    background-color: #df6589ff;
+    overflow: hidden;
+    margin: 60px auto;
+    padding: 70px 50px 80px 50px;
+    text-align: center;
+    border-left: 20px solid #ffdde2ff;
+    border-bottom: 20px solid #ffdde2ff;
+}
+.blog h2{
+    font-family: impact;
+   font-weight: normal;
+   font-size: 38px;
+}
+.blog img{
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+.blog p{
+    font-family: candara;
+    margin: 10px 0px;
+    text-align: justify;
+}
